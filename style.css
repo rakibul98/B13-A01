@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 16px 120px 16px 120px;
+}
+
+.earlyAccessBtn {
+    background-color: #30B868;
+    color: white;
+    border: none;
+    padding: 12px 16px 12px 16px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.earlyAccessBtn:hover {
+    background-color: #28a75c;
+}
+
+.navLinks {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    gap: 32px;
+}
+
+.navLinks a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.navLinks a:hover {
+    color: #37ab48;
+    /* font-weight: 600; */
+
+}
