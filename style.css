@@ -1,9 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
     background-color: white;
     padding: 16px 120px 16px 120px;
+}
+
+nav img {
+    width: 139px;
+    height: 60px;
 }
 
 .earlyAccessBtn {
@@ -25,6 +35,8 @@
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     gap: 32px;
+    text-decoration: none;
+    list-style: none;
 }
 
 .navLinks a {
@@ -38,5 +50,112 @@
 .navLinks a:hover {
     color: #37ab48;
     /* font-weight: 600; */
+
+}
+
+.hero-parent {
+    background-image: url('./assets/hero-bg.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 120px 100px 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heroBtn1 {
+    width: 229px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1000px;
+    background-color: white;
+    color: #30B868;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    display: flex;
+}
+
+.heroBtn1:hover {
+    background-color: #ede9e9;
+}
+
+.banner-title {
+    color: white;
+    font-size: 72px;
+    font-weight: 700;
+    width: 770px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.highText {
+    color: #30B868;
+
+}
+
+.banner-text {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 645px;
+
+}
+
+.heroBtn-group {
+    display: flex;
+    gap: 16px;
+    margin-top: 32px;
+}
+
+.heroBtn2 {
+    display: flex;
+    background-color: #30B868;
+    color: white;
+    border: none;
+    padding: 12px 16px 12px 16px;
+    border-radius: 4px;
+    font-weight: 600;
+    /* font-size: 16px; */
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.heroBtn2:hover {
+    background-color: #28a75c;
+
+}
+
+.heroBtn3 {
+    display: flex;
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 12px 16px 12px 16px;
+    border-radius: 4px;
+    font-weight: 600;
+    /* font-size: 16px; */
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    gap: 8px;
+
+}
+
+.heroBtn3:hover {
+    background-color: #4c4c4c;
 
 }
