@@ -232,3 +232,57 @@ nav img {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.second-brain-section {
+    display: flex;
+    padding: 120px;
+    gap: 60px;
+}
+
+.brain-container {
+    padding-top: 102px;
+    padding-bottom: 102px;
+    justify-content: center;
+    align-items: center;
+}
+
+.brain1stP {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #469165;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.brain-container h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    font-size: 48px;
+    font-style: Bold;
+    font-weight: 700;
+}
+
+.brain2ndP {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: #627382;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 16px;
+}
+
+.brain-container ul {
+    list-style: none;
+padding-top: 40px;
+}
+
+.brain-container ul li {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #001931;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    gap: 6px;
+    padding-bottom: 16px;
+}
