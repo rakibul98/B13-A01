@@ -351,3 +351,9 @@ nav img {
     padding-top: 80px;
     padding-bottom: 30px;
 }
+.footer-divider {
+  width: 1360px;
+  border-top: 1px solid #E5E7EB;
+  opacity: 0.2;
+  margin: 80px auto 0;
+}
