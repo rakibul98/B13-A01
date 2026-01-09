@@ -235,8 +235,8 @@ nav img {
 
 .second-brain-section {
     display: flex;
-    padding: 120px;
     gap: 60px;
+    padding: 100px 120px 100px 120px;
 }
 
 .brain-container {
@@ -273,7 +273,7 @@ nav img {
 
 .brain-container ul {
     list-style: none;
-padding-top: 40px;
+    padding-top: 40px;
 }
 
 .brain-container ul li {
@@ -285,4 +285,38 @@ padding-top: 40px;
     font-weight: 500;
     gap: 6px;
     padding-bottom: 16px;
+}
+
+.early-access-section {
+    text-align: center;
+    background-color: #F7F6F2;
+    margin: 2px 120px 120px 120px;
+}
+
+.early-access-section h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #001931;
+    font-weight: 700;
+    font-style: bold;
+    padding-top: 80px;
+}
+
+.early-access-p1 {
+    padding-top: 16px;
+    padding-bottom: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #627382;
+}
+
+.early-access-p2 {
+    padding-top: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #627382;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 80px;
 }
