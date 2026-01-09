@@ -80,6 +80,7 @@ nav img {
     justify-content: center;
     gap: 8px;
     display: flex;
+    margin-bottom: 16px;
 }
 
 .heroBtn1:hover {
@@ -339,7 +340,22 @@ nav img {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
 }
+.social{
+    gap: 4px;
+    justify-content: space-between;
 
+}
+.social-icons{
+    padding-top: 16px;
+    display: flex;
+  gap: 12px;
+}
+.social-icons img {
+
+  background: #ffffff;
+  border-radius: 50%;
+  cursor: pointer;
+}
 .footer-p2 {
     color: #FAFAFA;
     font-size: 16px;
@@ -356,4 +372,7 @@ nav img {
   border-top: 1px solid #E5E7EB;
   opacity: 0.2;
   margin: 80px auto 0;
+}
+.social{
+
 }
