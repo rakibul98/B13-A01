@@ -329,9 +329,12 @@ nav img {
 
 .footer-p1 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding-top: 120px;
+      margin: 0 auto;
+    padding-right: 140px;
+    padding-left: 120px;
 }
 
 .footer-p1 h3 {
@@ -340,26 +343,30 @@ nav img {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
 }
-.social{
+
+.social {
     gap: 4px;
     justify-content: space-between;
 
 }
-.social-icons{
+
+.social-icons {
     padding-top: 16px;
     display: flex;
-  gap: 12px;
+    gap: 12px;
 }
+
 .social-icons img {
 
-  background: #ffffff;
-  border-radius: 50%;
-  cursor: pointer;
+    background: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
 }
+
 .footer-p2 {
     color: #FAFAFA;
     font-size: 16px;
-    font-weight: 400px;
+    font-weight: 400;
     font-family: Arial, Helvetica, sans-serif;
     justify-content: center;
     align-items: end;
@@ -367,12 +374,10 @@ nav img {
     padding-top: 80px;
     padding-bottom: 30px;
 }
-.footer-divider {
-  width: 1360px;
-  border-top: 1px solid #E5E7EB;
-  opacity: 0.2;
-  margin: 80px auto 0;
-}
-.social{
 
+.footer-divider {
+    width: 1360px;
+    border-top: 1px solid #E5E7EB;
+    opacity: 0.2;
+    margin: 80px auto 0;
 }
