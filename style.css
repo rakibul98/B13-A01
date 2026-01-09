@@ -84,9 +84,10 @@ nav img {
 }
 
 .heroBtn1:hover {
-    background-color: #ede9e9;
-}
+    color: #268f52;
+        font-weight: 600;
 
+}
 .banner-title {
     color: white;
     font-size: 72px;
@@ -190,7 +191,7 @@ nav img {
     gap: 24px;
     flex-wrap: wrap;
     justify-content: center;
-    padding-top: 20px;
+    padding-top: 44px;
     ;
 }
 
@@ -261,6 +262,7 @@ nav img {
     font-size: 48px;
     font-style: Bold;
     font-weight: 700;
+    padding-top: 16px;
 }
 
 .brain2ndP {
