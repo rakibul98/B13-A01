@@ -85,9 +85,10 @@ nav img {
 
 .heroBtn1:hover {
     color: #268f52;
-        font-weight: 600;
+    font-weight: 600;
 
 }
+
 .banner-title {
     color: white;
     font-size: 72px;
@@ -209,6 +210,10 @@ nav img {
     margin-bottom: 20px;
     gap: 10px;
 
+}
+
+.notes-card:hover {
+    box-shadow: 0 16px 40px #0000001F;
 }
 
 .notes-card h3 {
@@ -334,7 +339,7 @@ nav img {
     justify-content: space-between;
     align-items: center;
     padding-top: 120px;
-      margin: 0 auto;
+    margin: 0 auto;
     padding-right: 140px;
     padding-left: 120px;
 }
