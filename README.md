@@ -1,148 +1,119 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-001 😎
+# 🧠 Personal Knowledge Vault
+
+A modern and visually appealing landing page for a **Personal Knowledge Management platform** designed to help users organize ideas, notes, links, and learning summaries in a structured way.
+
+The goal of this project is to present a clean and engaging user experience for a knowledge management product where users can build their own **second brain**.
+
+🔗 **Live Demo:** https://rakibul98.github.io/B13-A01/
 
 ---
 
-📅 Deadline For 60 marks: 9th January, 2026 (11:59 pm ⏱️)
+## 📸 Project Screenshot
 
-📅 Deadline For 50 marks: 10th January, 2026 (11:59 pm ⏱️)
+> Add your screenshot inside the `assets` folder and use it here
 
-📅 Deadline For 30 marks: Any time after 10th January.
-
-## 🔗 Resources
-
-- **Figma Design:**
-  [https://www.figma.com/design/oMYH7Ccj6UU8MKZwuGiAXB/KnowledgeVault---L1]
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
+![Project Screenshot](./assets/project-screenshot.png)
 
 ---
 
-## 📌 Assignment Requirements
+## 📖 Project Overview
 
-### ✅ Main Requirements (50 Marks)
+**Personal Knowledge Vault** is a responsive landing page project built with **HTML5 and CSS3**.
 
-### 🔹 Navbar Section
+This project focuses on creating a modern product showcase website with:
 
-![Navbar Section](Sections/Navbar.png)
+- Beautiful hero section
+- Feature highlights
+- Problem-solution storytelling
+- Early access call-to-action
+- Professional footer section
 
-- A logo aligned to the left
-- Menu items centered (as shown in Figma)
-- A button aligned to the right
-
----
-
-### 🔹 Banner Section
-
-![Banner Section](Sections/Banner.png)
-
-- A full-width background image
-- Center-aligned heading and text (as per Figma)
-- Two buttons below the text, aligned like the Figma design
+It is designed to demonstrate strong frontend fundamentals including **layout design, spacing, typography, section-based UI architecture, and hover interactions**.
 
 ---
 
-### 🔹 Notes Section
+## 🚀 Main Technologies Used
 
-![Notes Section](Sections/Notes%20Section.png)
-
-- Section heading and subtitle at the top
-- Four cards aligned in a single row
-- Each card must include:
-
-  - An icon
-  - Icon background color similar to Figma
-  - A title and subtitle
+- **HTML5**
+- **CSS3**
+- **Git & GitHub**
+- **GitHub Pages** (for deployment)
 
 ---
 
-### 🔹 Second Brain Section
+## ✨ Main Features
 
-![Second Brain Section](Sections/Second%20Brain%20Section.png)
-
-- An image on the left
-- On the right side:
-
-  - Section message
-  - Title
-  - Description
-
-- A list of items below the description
+- 🎯 Modern hero/banner section
+- 🧠 Structured product storytelling UI
+- 📌 Feature cards section
+- 💡 “Second Brain” solution showcase
+- 🚀 Early access CTA section
+- 🔗 Social media footer links
+- 🎨 Smooth hover effects
+- 📱 Clean and modern UI design
 
 ---
 
-### 🔹 Footer Section
+## 📦 Dependencies Used
 
-![Footer Section](Sections/Footer.png)
+This project uses **no external libraries or frameworks**.
 
-- A logo on the left
-- Social media links with icons on the right
-- A horizontal divider
-- Copyright message below the divider
+Built only with:
 
----
+- Vanilla HTML
+- Vanilla CSS
 
-## 🚀 CHALLENGES (10 Marks)
+Assets used:
 
-### 🔸 Early Access Section
-
-![Early Access Section](Sections/Early%20Access%20Section.png)
-
-- A centered title and subtitle
-- Below the subtitle:
-
-  - A simple message
-  - A “Get Early Access” button with an icon
-
-- Two ending messages below the button
+- PNG / SVG images
+- Custom icons
+- Background images
 
 ---
 
-### 🔸 Interaction & Code Quality
+## 💻 How to Run Locally
 
-- Hover effects on all buttons
-- Minimum **5 GitHub commits**
-- **No Lorem Ipsum** text anywhere on the website
+Follow these steps to run the project on your local machine:
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/rakibul98/B13-A01.git
+```
+
+### 2️⃣ Navigate to the project folder
+
+```bash
+cd B13-A01
+```
+
+### 3️⃣ Open the project
+
+Simply open `index.html` in your browser.
+
+OR use VS Code Live Server:
+
+```bash
+Right Click → Open with Live Server
+```
+
+---
+
+## 🌐 Live Link
+
+🔗 https://rakibul98.github.io/B13-A01/
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Relevant Links
 
-- HTML5
-- CSS3
-- No JavaScript
-- No CSS frameworks or libraries
+- **GitHub Repository:** https://github.com/rakibul98/B13-A01
+- **Live Website:** https://rakibul98.github.io/B13-A01/
 
 ---
 
-## ✅ Submission Checklist
+## 👨‍💻 Author
 
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Live site deployed
-- Public GitHub repository
+**Rakibul Molla**
 
----
-
-## 📂 Submission Format
-
-- **GitHub Repository Link**
-- **Live Website Link (GitHub Pages)**
-
----
+GitHub: https://github.com/rakibul98
