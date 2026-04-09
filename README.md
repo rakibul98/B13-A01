@@ -9,10 +9,8 @@ The goal of this project is to present a clean and engaging user experience for 
 ---
 
 ## 📸 Project Screenshot
+<img width="2108" height="4935" alt="rakibul98 github io_B13-A01_ (1)" src="https://github.com/user-attachments/assets/14df0699-0a2d-4996-9ad9-ad963cee8703" />
 
-> Add your screenshot inside the `assets` folder and use it here
-
-![Project Screenshot](./assets/project-screenshot.png)
 
 ---
 
